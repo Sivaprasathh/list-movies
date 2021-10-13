@@ -1,0 +1,117 @@
+.form-div {
+  width: 390px;
+  margin: 0 auto;
+  padding: 30px 0;
+}
+.link {
+  text-decoration: whitesmoke;
+  color: yellow;
+}
+.hint {
+  font-size: 18px;
+  color: whitesmoke;
+  margin-top: 19px;
+}
+.link:hover {
+  color: brown;
+}
+.form-div-add {
+  width: 390px;
+  margin-left: 80px;
+  padding: 30px 0;
+}
+.submit-btn {
+  margin-left: 15px;
+}
+.body {
+  background-image: url("../img/login.jpeg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.data {
+  color: white;
+  font-weight: 1000;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.title {
+  color: beige;
+  font-weight: bolder;
+}
+
+/* Remove the jumbotron's default bottom margin */
+.row {
+  margin: auto;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+.block {
+  width: 160px;
+  margin-right: 15px;
+  margin-left: 15px;
+  margin-bottom: 5px;
+  border: 2px solid;
+}
+.img-responsive {
+  width: 100%;
+  height: 250px;
+  padding-bottom: 5px;
+}
+.btn {
+  margin-left: 23px;
+  margin-bottom: 3px;
+}
+/* new css*/
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height: 200px;
+  margin-bottom: 15px;
+}
+.info {
+  background-color: lightslategrey;
+}
+.name {
+  color: aliceblue;
+  font-size: xx-large;
+  font-family: cursive;
+  padding-top: 25px;
+}
+.datas {
+  font-style: italic;
+  font-size: large;
+  color: beige;
+}
+.desc {
+  color: whitesmoke;
+  font-family: cursive;
+  font-size: x-large;
+
+  padding-bottom: 25px;
+}
+.display {
+  background-color: lightpink;
+  padding-bottom: 120px;
+}
+.back-btn {
+  margin-top: 10px;
+  margin-left: 600px;
+}
+.navbar {
+  background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
+  margin-bottom: 10px;
+}
+h4 {
+  color: white;
+  margin-left: 570px;
+}
+.navv {
+  margin-right: 100px;
+}
+.logout {
+  margin-left: 950px;
+}
